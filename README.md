@@ -14,3 +14,12 @@ Continue uncovering cells and flagging potential mines until you have cleared th
 
 Keep in mind that Minesweeper is a logic-based game, so use your brain to uncover as many cells as possible without detonating any mines. Practice makes perfect, so keep playing to improve your skills.
 
+Flagging mines
+
+<img width="488" alt="Screenshot 2024-08-31 at 5 53 56 PM" src="https://github.com/user-attachments/assets/5de0a064-aa00-4594-83f1-b32588f235b6">
+
+Clicking on a mine
+
+<img width="532" alt="Screenshot 2024-08-31 at 5 51 34 PM" src="https://github.com/user-attachments/assets/ff6e859a-98d6-43ef-a1b8-f5dfa6c0e3c2">
+
+
